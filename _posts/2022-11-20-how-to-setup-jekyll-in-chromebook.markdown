@@ -5,7 +5,7 @@ date:   2022-11-20 23:30:27 +0900
 categories: jekyll Chromebook
 img: software.jpg # Add image post (optional)
 tags: [Github Pages, jekyll] # add tag
-description: 説明！.
+description: Chromebook上にjekyllをインストールするまでを書いた記事.
 ---
 
 記事を書く前に、ここまでの環境を用意した際の手順、参考にしたURLをメモします。
