@@ -52,3 +52,6 @@ gem install jekyll
 せっかくなのでデザインを変更してみる。
 
 - [GitHub Pagesの使い方 – Jekyllのブログテーマを変更する方法](https://howpon.com/10476)
+
+テーマは[flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll)を使わせていただきました。しんぷるでよいです。
+faviconを変えたりbaseUrlを設定してcssの相対パスが正しく動くよう調整しました。
