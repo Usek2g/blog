@@ -13,7 +13,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Usek2g # add your name
 author-img: daruma.jpeg # add your photo
-about-author: セキュリティエンジニア. # add description
+about-author: 昭和生まれのエンジニアです。今はベンチャー気質の会社でセキュリティエンジニアを担当しています。セキュリティに関する学びや情報を発信していければと思います。 # add description
 social-twitter: Usek2g# add your Twitter handle
 #social-facebook: # add your Facebook handle
 social-github:  Usek2g # add your Github handle
