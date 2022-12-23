@@ -33,11 +33,12 @@ APIの使用回数制限ややネットワーク帯域の帯域制限など、�
 
 デシアライゼーションについてはこちらのページが参考になりました。
 
-https://yamory.io/blog/about-insecure-deserialization/
+[実践！安全ではないデシリアライゼーションの攻撃手法](https://yamory.io/blog/about-insecure-deserialization/)
+
 
 yamoryさんはXXE（XML External Entity: XML 外部エンティティ参照, XML 外部実体）についても解説してくれています。
 
-https://yamory.io/blog/what-is-xxe/
+[油断ならない脆弱性　XXE への対策](https://yamory.io/blog/what-is-xxe/)
 
 
 バリデーションの章を〆るナレッジチェック（テスト）はかなり難度が高いです。でも7.2の問題は納得がいかない…日本語だとAとCは同じ意味に聞こえるんですよね。原文（英語）だと違う意味ととらえられるのでしょうか。他にも第2部は解説の日本語が腑に落ちない箇所が散見しました。
@@ -46,12 +47,12 @@ https://yamory.io/blog/what-is-xxe/
 
 安易にCやC++をディスってはいけません。しかしCやC++においてメモリ解放が重要なのは承知ですが、解放された後のメモリを再利用することはリスクがあると学びました。
 
-https://www.jpcert.or.jp/sc-rules/c-mem30-c.html
-https://www.comp.sd.tmu.ac.jp/spacelab/c_lec2/node118.html
+[MEM30-C. 解放済みメモリにアクセスしない](https://www.jpcert.or.jp/sc-rules/c-mem30-c.html)
+[メモリの解放](https://www.comp.sd.tmu.ac.jp/spacelab/c_lec2/node118.html)
 
 しかしメモリ容量には限度があります。メモリを使いきってしまった、ということにはならないのでしょうか？（頓珍漢な疑問？）
 
-CやC++における[未定義の動作](https://programming-place.net/ppp/contents/glossary/ma/undefined_behavior.html)
+[CやC++における未定義の動作](https://programming-place.net/ppp/contents/glossary/ma/undefined_behavior.html)
 
 [HTTPヘッダーがセキュア化をチェックできるサイト](https://securityheaders.com/)
 
