@@ -17,7 +17,7 @@ description: Linux Foundationの「セキュアソフトウェア開発」を受
 バリデーションと一言に行っても、単に数値やテキストを超え、テキストエンコーディングやデシアライゼーション、外部参照、環境変数の利用など考えることが多いです。csvファイル自体に書かれているのは単純な文字列でも、Excelで開いた場合に「=」が使われていると関数とみなして実行するなど、言われてみると「そういえばそうだ」という話も多く掲載されています。
 
 また、バリデーションや値チェックなど不正な入力値をチェックできても、人間が意図せず作りこんだプログラムのバグまではチェックできません。
-CVE-2014-1266、通称「goto fail; goto fail;」脆弱性（https://appllio.com/20140223-4899-apple-ios-bug-ssl-goto-fail）など、ぞっとする話ですが同時にやりかねない話だと思います。
+CVE-2014-1266、通称「goto fail; goto fail;」脆弱性(https://appllio.com/20140223-4899-apple-ios-bug-ssl-goto-fail)など、ぞっとする話ですが同時にやりかねない話だと思います。
 
 知らないことが多かったです。
 
@@ -32,9 +32,11 @@ APIの使用回数制限ややネットワーク帯域の帯域制限など、�
 
 
 デシアライゼーションについてはこちらのページが参考になりました。
+
 https://yamory.io/blog/about-insecure-deserialization/
 
 yamoryさんはXXE（XML External Entity: XML 外部エンティティ参照, XML 外部実体）についても解説してくれています。
+
 https://yamory.io/blog/what-is-xxe/
 
 
@@ -43,8 +45,10 @@ https://yamory.io/blog/what-is-xxe/
 > (メモリーセーフでない)CやC++で書かれた大規模なプログラムには、書き換えが困難なものがたくさんありますし、もちろん、人々がそれらの言語を選択する理由もあります。オペレーティングシステムのカーネルはほとんどがCで書かれていますが、これはパフォーマンスが重要であり、Cがこの作業のために特別に設計されたからです。同様に、メモリー安全性を無効にできる言語にも、そのメカニズムが存在する理由があるのです。
 
 安易にCやC++をディスってはいけません。しかしCやC++においてメモリ解放が重要なのは承知ですが、解放された後のメモリを再利用することはリスクがあると学びました。
+
 https://www.jpcert.or.jp/sc-rules/c-mem30-c.html
 https://www.comp.sd.tmu.ac.jp/spacelab/c_lec2/node118.html
+
 しかしメモリ容量には限度があります。メモリを使いきってしまった、ということにはならないのでしょうか？（頓珍漢な疑問？）
 
 CやC++における[未定義の動作](https://programming-place.net/ppp/contents/glossary/ma/undefined_behavior.html)
