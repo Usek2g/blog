@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "情報処理安全確保支援士の実践講習を受講しました"
-date:   2022-12-24 22:50:27 +0900
+date:   2022-12-31 22:50:27 +0900
 categories: riss
 img: riss.jpeg # Add image post (optional)
 tags: [security] # add tag
