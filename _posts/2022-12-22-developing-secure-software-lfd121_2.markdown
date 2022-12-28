@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linux Foundationの「セキュアソフトウェア開発」を受講しました（2）"
+title:  "Linux Foundationの「セキュアソフトウェア開発」を受講しました（２）"
 date:   2022-12-22 20:50:27 +0900
 categories: online-training
 img: lfd121-jp.png # Add image post (optional)
