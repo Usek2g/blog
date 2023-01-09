@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "【ブックレビュー】サイバー戦争（下）"
-date:   2023-01-11 22:50:27 +0900
+date:   2023-01-21 22:50:27 +0900
 categories: bookreview
-img: cyber-war_2.jpeg # Add image post (optional)
+img: cyber-war_2.jpg # Add image post (optional)
 tags: [Security,International] # add tag
 description: 2016年アメリカ総選挙、2022年ロシアーウクライナ戦争など、現代におけるサイバー空間での戦争について記した本（後編）
 ---
