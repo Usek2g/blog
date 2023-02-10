@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "【ブックレビュー】HOW TO THINK LIKE A MANAGER FOR THE CISSP EXAM"
-date:   2023-02-07 22:50:27 +0900
+title:  "【ブックレビュー】CISSP Realistic Practice Test 5"
+date:   2023-02-26 22:50:27 +0900
 categories: bookreview
-img: how-to-thing-like-a-manager-for-the-cissp-exam.jpg # Add image post (optional)
+img: CISSP_RealisticPracticeTest5.jpg # Add image post (optional)
 tags: [Security,CISSP] # add tag
-description: kindle unlimitedで読むことのできるCISSP本"HOW TO THINK LIKE A MANAGER FOR THE CISSP EXAM"を使用した感想
+description: kindle unlimitedで読むことのできるCISSP本CISSP Realistic Practice Test 5"を利用した感想
 ---
 
 
