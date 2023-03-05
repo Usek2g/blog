@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【ブックレビュー】AWSで実現するモダンアプリケーション入門"
-date:   2023-03-06 22:50:27 +0900
+date:   2023-03-13 22:50:27 +0900
 categories: bookreview
 img: aws-modern-application.jpg # Add image post (optional)
 tags: [AWS] # add tag
