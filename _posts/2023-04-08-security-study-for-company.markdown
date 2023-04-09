@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "会社内でのセキュリティ教育ー見えないが見えてしまう編ー"
-date:   2023-04-05 22:50:27 +0900
+date:   2023-04-08 22:50:27 +0900
 categories: activity
 img: syuraba.jpg
  # Add image post (optional)
