@@ -6,7 +6,7 @@ categories: bookreview
 img: the-textbook-of-the-white-hacker.jpg
  # Add image post (optional)
 tags: [Security] # add tag
-description: 
+description: ホワイトハッカーになるためには
 ---
 
 僕は会社での肩書が「セキュリティエバンジェリスト」（たいそうな肩書をいただいていますが、イメージとしては「セキュリティ担当」で間違いありません）であり、ITエンジニアの中でもセキュリティエンジニアの一部の領域ともいえる「ホワイトハッカー」の活動におんぶにだっこしています。彼らが何をしているかを知りたくてこの本を取りました。

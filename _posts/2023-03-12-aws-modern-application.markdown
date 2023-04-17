@@ -5,7 +5,7 @@ date:   2023-03-12 21:50:27 +0900
 categories: bookreview
 img: aws-modern-application.jpg # Add image post (optional)
 tags: [AWS] # add tag
-description: 
+description: AWSを利用したモダンなアプリケーションを作成するための考え方、実例あれこれ
 ---
 
 この本を手に取った理由は、この本が紹介しているであろう内容がまさに今仕事で必要だと考えていたからです。
