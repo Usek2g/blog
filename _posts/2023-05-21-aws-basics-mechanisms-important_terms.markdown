@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "【ブックレビュー】AWSの基本・仕組み・重要用語が全部わかる教科書"
-date:   2023-04-29 22:50:27 +0900
+date:   2023-05-21 22:20:27 +0900
 categories: bookreview
 img: aws-basics-mechanisms-important_terms.jpg
  # Add image post (optional)
 tags: [AWS] # add tag
 description: 20223年に出版されそのボリュームから話題となったAWS解説本です
 ---
+
+久しぶりの更新になります。今月末に受験する予定のAWS DevOpes Developers Professionalの最終追い込みをしていまして・・・いや、言い訳ですね。ゴールデンウィーク明けてもちゃんとWebラジオやブログ記事を更新している人たちを見ると、すごいという気持ちでいっぱいです。僕もまたギアを入れ直さないとです。
 
 一応AWS Solution Architect Professionalを所有している僕ですが、今年が取得3年目なので更新が必要となります。
 当時は100個を超えたところ、といったAWSのサービスは現在200ほどあるという。多すぎる・・・。そんな進化の早いAmazon Web Servicesを網羅した本が今年発売され、かなり好評だったのでこの度読んでみました。
