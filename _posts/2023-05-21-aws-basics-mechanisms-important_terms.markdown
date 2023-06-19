@@ -6,7 +6,7 @@ categories: bookreview
 img: aws-basics-mechanisms-important_terms.jpg
  # Add image post (optional)
 tags: [AWS] # add tag
-description: 20223年に出版されそのボリュームから話題となったAWS解説本です
+description: 2023年に出版されそのボリュームから話題となったAWS解説本です
 ---
 
 久しぶりの更新になります。今月末に受験する予定のAWS DevOpes Developers Professionalの最終追い込みをしていまして・・・いや、言い訳ですね。ゴールデンウィーク明けてもちゃんとWebラジオやブログ記事を更新している人たちを見ると、すごいという気持ちでいっぱいです。僕もまたギアを入れ直さないとです。
