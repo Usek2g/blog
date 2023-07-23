@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【ブックレビュー】今知りたいサイバー犯罪事件簿-セキュリティの「落とし穴」を示す15の事件-"
-date:   2023-06-25 22:20:27 +0900
+date:   2023-07-09 22:20:27 +0900
 categories: bookreview
 img: cyber-​​crime-case-files-you-want-to-know-now.jpg
  # Add image post (optional)
