@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Microsoft Authenticatorを使いパスワードレスでログイン"
-date:   2023-07-30 22:50:27 +0900
+date:   2023-08-11 22:50:27 +0900
 categories: diary
 img: smartphone_shimon_ninsyou.png
  # Add image post (optional)
@@ -58,4 +58,6 @@ description: Microsoft Authenticatorを使いパスワードレスでログイ�
 
 Microsoft,Google,AppleのBIG3が協力して推し進めているPasskey、いよいよ普及の段階に入った予感がしますね！
 
-厳密にはPasskeyは「パスワードを管理していたのが、秘密鍵を管理するようになったので、認証情報を保管する行為から解放されたわけではない」のですが、管理する側がユーザからテック企業に変わったこと（その分テック企業の責任は重大ですが）によるユーザの負荷軽減はセキュリティに大きく寄与するはずです。
+厳密にはPasskeyは「パスワードを管理していたのが、秘密鍵を管理するようになったので、認証情報を保管する行為から解放されたわけではない」のと、「保管するのがユーザからテック企業になったので、却って攻撃者にとっては宝の山となった」ところは注意が必要です。
+
+[中国の攻撃者によるMicrosoftの署名鍵の窃取、想定以上に大きな影響か](https://news.mynavi.jp/techplus/article/20230724-2733284/)
