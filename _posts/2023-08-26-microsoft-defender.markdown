@@ -3,7 +3,7 @@ layout: post
 title:  "Microsoft 365 Defenderを学ぶ"
 date:   2023-08-26 22:50:27 +0900
 categories: study
-img:microsoft-defender-for-office365.png
+img: microsoft-defender-for-office365.png
  # Add image post (optional)
 tags: [Security,ZeroTrust] # add tag
 description: UdemyでMicrosoft 365 Defenderを紹介する動画が期間限定無料公開だったので勉強
