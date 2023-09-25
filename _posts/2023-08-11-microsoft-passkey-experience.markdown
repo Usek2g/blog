@@ -5,7 +5,7 @@ date:   2023-08-11 22:50:27 +0900
 categories: diary
 img: smartphone_shimon_ninsyou.png
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [Security,passkeys] # add tag
 description: Microsoft Authenticatorを使いパスワードレスでログインする方法を紹介します
 ---
 
