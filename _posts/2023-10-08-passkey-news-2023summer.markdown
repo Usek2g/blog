@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2023年夏のパスキーのいろいろな動き"
-date:   2023-10-01 22:50:27 +0900
+date:   2023-10-08 22:50:27 +0900
 categories: news
 img: passkey-hero.jpg
  # Add image post (optional)
