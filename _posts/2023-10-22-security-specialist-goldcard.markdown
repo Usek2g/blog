@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "登録セキスぺのゴールド免許"
+title:  "登録セキスぺのゴールド免許証"
 date:   2023-10-22 22:50:27 +0900
 categories: news
 img: menkyo_gold.png
