@@ -2,7 +2,7 @@
 layout: post
 title:  "ChatGPTから、Auto Scaling Group と Target Groupの使い方を教わった"
 date:   2023-02-21 22:50:27 +0900
-categories: learning
+categories: study
 img: chatgpt.jpg # Add image post (optional)
 tags: [ChatGPT,AWS] # add tag
 description: ChatGPTの回答を実際に手を動かして確かめてみた
