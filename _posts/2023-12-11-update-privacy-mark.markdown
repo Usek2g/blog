@@ -6,7 +6,7 @@ categories: riss
 img: riss.jpeg
  # Add image post (optional)
 tags: [Security] # add tag
-description: 嘘か誠か、登録セキスぺが取得したい資格第1位に
+description: 嘘か誠か。登録セキスぺが取得したい資格第1位に
 ---
 
 [「取得したいIT資格」は登録セキスペが1位、AWSの6連覇ならず](https://xtech.nikkei.com/atcl/nxt/column/18/02661/112100002/)
