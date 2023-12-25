@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ミッション：プライバシーマークを更新せよ"
-date:   2023-12-24 21:50:27 +0900
+date:   2023-12-24 21:55:27 +0900
 categories: diary
 img: pmark.jpg
  # Add image post (optional)
