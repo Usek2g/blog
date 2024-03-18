@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2段階認証アプリ「Authy」デスクトップ版サポート終了について"
-date:   2024-03-18 22:50:27 +0900
+date:   2024-03-18 22:30:27 +0900
 categories: news
 img: AuthyDesktop-Title.png
  # Add image post (optional)
@@ -9,7 +9,7 @@ tags: [Security] # add tag
 description: Authyのデスクトップ版がサポート終了します、モバイル版移行方法についてまとめました
 ---
 
-# 2段階認証アプリとは
+# そもそも2段階認証アプリとは
 IDとパスワードによる認証がもはや安全ではないことは皆さんご存知と思いますが、インターネット上の一部サービス、たとえばAWSやMicrosoft Teams、Githubなどでは「2段階認証(2 factor authentication）」またの名を「多要素認証(multi factor authentication)」が利用可能、あるいは必須としているサービスも存在します。
 「2段階認証」とはその名の通りパスワードとは別の認証を追加することで、不正ログイン対策を強化しています。
 
