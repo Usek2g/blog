@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【ブックレビュー】どうしてこうなった？ セキュリティの笑えないミスとその対策51 ちょっとした手違いや知識不足が招いた事故から学ぶITリテラシー"
-date:   2024-04-07 22:20:27 +0900
+date:   2024-04-17 22:20:27 +0900
 categories: bookreview
 img: 51rediculous.png
  # Add image post (optional)
