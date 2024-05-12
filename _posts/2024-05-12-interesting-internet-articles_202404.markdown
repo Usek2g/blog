@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2024年4月の気になるインターネット記事をピックアップ"
-date:   2024-05-12 22:55:27 +0900
+date:   2024-05-12 23:15:27 +0900
 categories: diary
 img: security-strategy_msdegisner.jpeg
  # Add image post (optional)
