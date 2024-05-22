@@ -3,7 +3,7 @@ layout: post
 title:  "2024年4月の気になるインターネット記事をピックアップ"
 date:   2024-05-12 23:15:27 +0900
 categories: diary
-img: security-strategy_msdegisner.jpeg
+img: stockprice.png
  # Add image post (optional)
 tags: [article] # add tag
 description: 2024年4月の気になった記事を読んでみる
