@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "バッファローが一部Wi-Fiルーターで脆弱性の注意喚起。対応しました"
-date:   2024-05-25 23:01:27 +0900
+date:   2024-05-25 23:15:27 +0900
 categories: news
 img: WHR-1166DHP2__0100.jpg
  # Add image post (optional)
@@ -40,8 +40,11 @@ description: バッファロー製の無線WiFiルータに脆弱性があり影
 
 ## ファームウェア最新の確認
 [https://buffalo.jp/support/faq/detail/128.html]
+
 上記に詳しい方法が書かれているのですが、みんな見ているせいか、
+
 **このサイトにアクセスできませんbuffalo.jp からの応答時間が長すぎます。**
+
 が表示されましたが、何回かやっているうちに繋がりました。
 上記のサイトに丁寧に解説されていますが、自分からも改めて説明します。
 WindowsPCのケースとなります。
