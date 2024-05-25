@@ -39,7 +39,7 @@ description: バッファロー製の無線WiFiルータに脆弱性があり影
 さっそく確認してみました。
 
 ## ファームウェア最新の確認
-https://buffalo.jp/support/faq/detail/128.html
+[https://buffalo.jp/support/faq/detail/128.html](https://buffalo.jp/support/faq/detail/128.html)
 
 上記に詳しい方法が書かれているのですが、みんな見ているせいか、
 
