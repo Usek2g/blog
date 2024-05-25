@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "バッファローが一部Wi-Fiルーターで脆弱性の注意喚起。対応しました"
-date:   2024-05-25 22:30:27 +0900
+date:   2024-05-25 23:01:27 +0900
 categories: news
 img: WHR-1166DHP2__0100.jpg
  # Add image post (optional)
