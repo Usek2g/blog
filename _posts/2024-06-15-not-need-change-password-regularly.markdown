@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "パスワードの定期的な変更は不要"という総務省からのアナウンス
+title:  "パスワードの定期的な変更は不要"という総務省からのアナウンス"
 date:   2024-06-15 13:15:27 +0900
 categories: news
 img: computer_password.png
