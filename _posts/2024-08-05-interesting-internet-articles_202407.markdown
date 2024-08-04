@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2024年7月の気になるインターネット記事をピックアップ"
-date:   2024-07-05 21:15:27 +0900
+date:   2024-08-05 21:15:27 +0900
 categories: diary
 img: incident_response_202407.jpeg
  # Add image post (optional)
