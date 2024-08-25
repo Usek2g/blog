@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【ブックレビュー】セキュリティエンジニアの教科書"
-date:   2024-08-31 12:20:27 +0900
+date:   2024-08-25 12:20:27 +0900
 categories: bookreview
 img: textbook-of-the-security-engineer.jpg
  # Add image post (optional)
