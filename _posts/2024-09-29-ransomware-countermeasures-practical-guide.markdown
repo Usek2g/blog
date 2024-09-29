@@ -5,7 +5,7 @@ date:   2024-09-29 12:20:27 +0900
 categories: bookreview
 img: ransomware-countermeasures-practical-guide.jpg
  # Add image post (optional)
-tags: [security,ransomware] # add tag
+tags: [ransomware] # add tag
 description: ランサムウェアとその対策をすぐ取り掛かれてかつ具体的な手法で紹介
 ---
 
