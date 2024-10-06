@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "「isoon文書」とサイバー空間での「認知戦」について"
-date:   2024-10-06 12:20:27 +0900
+date:   2024-10-06 12:21:27 +0900
 categories: news
 img: isoon.jpg
  # Add image post (optional)
