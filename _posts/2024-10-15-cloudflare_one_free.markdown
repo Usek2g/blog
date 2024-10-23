@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "CloudFlare One無料化で何ができるのか調べてみた"
+title:  "CloudFlare Zero Trust無料化で何ができるのか調べてみた"
 date:   2024-10-15 00:21:27 +0900
 categories: product
 img: cloudflareone.png
  # Add image post (optional)
 tags: [zerotrust,cloudflare] # add tag
-description: CloudFlare Oneの一部サービスが無料化したとのこと、何ができるのだろう
+description: CloudFlare Zero Trustの一部サービスが無料化したとのこと、何ができるのだろう
 ---
+
+10.23 現在CloudFlare OneはCloudFlare Zero Trustに改称しているということですので、タイトルをCloudFlare OneからCloudFlare Zero Trustに修正しました。とはいえ、最近の公式の文章の中でもCloudFlare Oneが使われているのをよく見かけます。
 
 CloudFlareは今最も勢いのあるインターネット企業の1つです。僕もCloudFlare Pagesを利用させてもらっています。zipもしくはGitHubのリポジトリから簡単に静的サイトをデプロイできる便利なサービスです。そのCloudFlareが9/24に自社のセキュリティツールを無料化するとアナウンスしました。
 
@@ -40,19 +42,19 @@ SASE（Secure Access Service Edge）とは、2019年にガートナーによっ�
 つまり、従来有料サービスとして提供されていた上記機能が、Freeプランでも利用できるということのようです。
 今回調べた結果、Freeプランは**おそらく**CloudFlareサービスのエージェントであるWARPをインストールした台数でユーザ数をカウントし、50人以下までであれば無料で使えると思われます。中小企業はもちろん、大企業でもセキュリティを強化しなければならない特定のプロジェクトに対して利用することもできると思います。
 
-今回、CloudFlare Oneの基本機能と、今回追加された新たな製品で何ができるのか、調べてみることとしました。
+今回、CloudFlare Zero Trustの基本機能と、今回追加された新たな製品で何ができるのか、調べてみることとしました。
 
 [はじめての Cloudflare One (1) Secure Web Gateway で Agentless DNS Filtering][https://zenn.dev/kameoncloud/articles/032ec7d8572d9f]
 
 CloudFlareのゼロトラスト技術に関してはCloudFlareエバンジェリストが書かれた上記記事のイラストが分かりやすいです。インターネットに抜けるあらゆる通信に対してプロキシ機能を持ち、外から中へのアクセス制限「Zero Trust Network Access」と、中から外へのアクセス制限「Secure Web Gateway」で構成されているようです。このSecure Web Gatewayは一般用語でいうと CASB (Cloud Access Security Broker) に相当するものです。
 
-この記事を見ながらCloudFlare Oneの基本機能「Agentless DNS Filtering」を試してみました。最新の画面UIと説明に少し差異がありましたが、基本的には問題なく進めました。
+この記事を見ながらCloudFlare Zero Trustの基本機能「Agentless DNS Filtering」を試してみました。最新の画面UIと説明に少し差異がありましたが、基本的には問題なく進めました。
 
 最後のGoogle ChromeでセキュアDNSを利用するところだけ、ChromeでなかなかセキュアDNSの設定変更箇所を見つけられず苦労しましたが、添付画像の位置にあります。
 
 <img src="{{site.baseurl}}/assets/img/CustomeDNSonChrome.jpg" alt="セキュアDNSの場所">
 
-次に、CloudFlare Oneに今回提供された4つの機能について調べてみました。いったん調べた結果飲み記述しますが、後日実際にエージェントをインストールして動作を確認してみたいと思っています。
+次に、CloudFlare Zero Trustに今回提供された4つの機能について調べてみました。いったん調べた結果飲み記述しますが、後日実際にエージェントをインストールして動作を確認してみたいと思っています。
 
 ## CASB
 [Cloudflare Zero Trust の CASB機能 をまとめてみた](https://dev.classmethod.jp/articles/cloudflare-zerotrust-casb-summary/)
