@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【ブックレビュー】経営層のためのサイバーセキュリティ実践入門"
-date:   2024-10-28 12:20:27 +0900
+date:   2024-11-01 12:20:27 +0900
 categories: bookreview
 img: introduction-for-cybersecurity.jpg
  # Add image post (optional)
