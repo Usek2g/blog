@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【ブックレビュー】先読み！サイバーセキュリティ 生成AI時代の新たなビジネスリスク"
-date:   2024-11-09 12:20:27 +0900
+date:   2024-11-10 12:20:27 +0900
 categories: bookreview
 img: look-ahead-cybersecurity.jpg
  # Add image post (optional)
