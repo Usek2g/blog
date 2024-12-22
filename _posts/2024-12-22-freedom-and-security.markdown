@@ -6,7 +6,7 @@ categories: bookreview
 img: freedom-and-security.jpg
  # Add image post (optional)
 tags: [security] # add tag
-description: "セキュリティ"を守る引き換えに個人の自由を奪うことはどうなのか？
+description: セキュリティ"を守る引き換えに個人の自由を奪うことはどうなのか？
 ---
 
 今年最後の記事は、普段と少し経路の違うブックレビューとなります。
