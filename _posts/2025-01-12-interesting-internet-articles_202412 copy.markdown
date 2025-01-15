@@ -75,7 +75,7 @@ Web APIにおけるSSL/TLS証明書の有効化、そのうえでebAPIにおけ�
 最後はこちらの記事を。タイトルから分かるように、2024年版もあります。
 海外のセキュリティまとめサイトはたくさんあるのですね。日本語という井の中の蛙でしたので知りませんでした。翻訳の精度が挙がったものの、やはり外国語の壁は高いです。しかしこのサイトの方がおっしゃるように、まとめサイトのトップページをGoogleChromeの翻訳機能で日本語訳するだけでも、世界で何が起こっているのかを知ることができるので良いと思いました。
 
-[Morningstar Security News](https://morningstarsecurity.com/news)
-[Izumino.jp セキュリティ・トレンド](http://izumino.jp/Security/sec_trend.cgi)
+- [Morningstar Security News](https://morningstarsecurity.com/news)
+- [Izumino.jp セキュリティ・トレンド](http://izumino.jp/Security/sec_trend.cgi)
 
 おススメの上記サイトをさっそく巡回サイトとして登録しました。
