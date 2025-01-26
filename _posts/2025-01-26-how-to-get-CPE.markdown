@@ -47,7 +47,8 @@ ISC2公式ウェブサイトの**Members＞CPEs Portal**に移動すると、現
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1VBd21BRV6g?si=Tso84qOHe9C2jhMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://www.isc2.org/professional-development/webinars/apac-webinars
+[https://www.isc2.org/professional-development/webinars/apac-webinars](https://www.isc2.org/professional-development/webinars/apac-webinars
+)
 
 アジア太平洋のWebinarならば日本語のウェビナーも用意されています。さっそく視聴しました。セキュリティの企業がスポンサーとして宣伝も兼ねてウェビナーを掲載していました。視聴することでCISSP保持者はポイントゲット、ISC2は運営費を賄っているのですね。
 
