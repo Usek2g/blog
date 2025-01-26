@@ -3,9 +3,8 @@ layout: post
 title:  "【ブックレビュー】フロントエンド開発のためのセキュリティ入門"
 date:   2025-02-05 10:20:27 +0900
 categories: bookreview
-img: frontend-development-security.png
- # Add image post (optional)
-tags: [security] # add tag
+img: frontend-development-security.png # Add image post (optional)
+tags: [programming,security] # add tag
 description: フロントエンドのお約束の脆弱性とその対策について手を動かしながら真似べる本
 ---
 

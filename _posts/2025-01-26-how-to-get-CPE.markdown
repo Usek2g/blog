@@ -3,10 +3,9 @@ layout: post
 title:  "CPEはどうやってゲットすればよいのか"
 date:   2025-01-26 10:15:27 +0900
 categories: column
-img: cpe-0.jpg
- # Add image post (optional)
+img: cpe-0.jpg # Add image post (optional)
 tags: [CISSP] # add tag
-description: CPEを獲得する方法を調べました。
+description: CPEを獲得する方法を調査しました。
 ---
 
 昨年はCISSPをゲットすることができました、このことはとてもうれしいです。
