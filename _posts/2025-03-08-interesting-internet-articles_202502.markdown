@@ -3,7 +3,7 @@ layout: post
 title:  "2025年1,2月の気になるインターネット記事をピックアップ"
 date:   2025-03-08 10:15:27 +0900
 categories: diary
-img: whatissecurity.jpeg # Add image post (optional)
+img: interesting-internet-articles_202502.jpeg # Add image post (optional)
 tags: [article] # add tag
 description: 2025年1,2月の気になった記事を読んでみる
 ---
