@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "「何もない」という結果を「得る」"
-date:   2024-12-08 12:15:27 +0900
+date:   2025-04-13 12:15:27 +0900
 categories: diary
 img: nothing-happen.jpeg
  # Add image post (optional)
