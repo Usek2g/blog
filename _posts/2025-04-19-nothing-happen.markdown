@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "「何もない」という結果を「得る」"
-date:   2025-04-13 12:15:27 +0900
+title:  "「事なき」を「得る」ための活動"
+date:   2025-04-19 21:15:27 +0900
 categories: diary
-img: nothing-happen.jpeg
+img: sikasinanimookoranakatta.gif
  # Add image post (optional)
 tags: [article] # add tag
 description: 「何も起こらない」を仕事とする人たちがいます、自分もその中の一人

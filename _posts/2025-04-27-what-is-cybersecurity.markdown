@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "「【ブックレビュー】サイバーセキュリティ、マジわからん」と思った時に読む本"
-date:   2025-04-12 10:20:27 +0900
+date:   2025-04-27 10:20:27 +0900
 categories: bookreview
 img: what-is-cybersecurity.jpg # Add image post (optional)
-tags: [sre] # add tag
+tags: [security] # add tag
 description: 一般の人に向けた平易な用語でサイバーセキュリティを説明
 ---
 
