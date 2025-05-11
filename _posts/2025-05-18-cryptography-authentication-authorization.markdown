@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "「【ブックレビュー】今更聞けない暗号技術＆認証・認可"
+title:  "【ブックレビュー】今更聞けない暗号技術＆認証・認可"
 date:   2025-05-11 10:20:27 +0900
 categories: bookreview
 img: cryptography-authentication-authorization.jpg # Add image post (optional)
