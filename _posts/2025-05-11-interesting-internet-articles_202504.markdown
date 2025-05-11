@@ -3,7 +3,7 @@ layout: post
 title:  "2025年4月の気になるインターネット記事をピックアップ"
 date:   2025-05-11 19:15:27 +0900
 categories: diary
-img: fake-base-station-intercepting-smartphone-signals.jpg # Add image post (optional)
+img: fake-base-station -intercepting-smartphone-signals.jpg # Add image post (optional)
 tags: [article] # add tag
 description: 2025年4月の気になった記事を読んでみる
 ---
