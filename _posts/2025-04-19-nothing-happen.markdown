@@ -5,7 +5,7 @@ date:   2025-04-19 21:15:27 +0900
 categories: diary
 img: sikasinanimookoranakatta.gif
  # Add image post (optional)
-tags: [article] # add tag
+tags: [feeling] # add tag
 description: 「何も起こらない」を仕事とする人たちがいます、自分もその中の一人
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【ブックレビュー】能動的サイバー防御"
-date:   2025-06-08 10:20:27 +0900
+date:   2025-06-29 10:20:27 +0900
 categories: bookreview
 img: japan_active_cyber_defense.jpg # Add image post (optional)
 tags: [security] # add tag

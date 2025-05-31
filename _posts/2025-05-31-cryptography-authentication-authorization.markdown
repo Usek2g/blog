@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "【ブックレビュー】今更聞けない暗号技術＆認証・認可"
-date:   2025-05-11 10:20:27 +0900
+date:   2025-05-31 9:20:27 +0900
 categories: bookreview
 img: cryptography-authentication-authorization.jpg # Add image post (optional)
-tags: [security] # add tag
+tags: [security,cryptography,authentication,authorization] # add tag
 description: Software Designの特集から暗号技術、認証、認可をピックアップ
 ---
 
 僕も読んでいるソフトウェアエンジニア向け月刊誌「Software Design」。最近は連載"インターネットの姿をとらえる"を愛読しています。そのSoftware Designから暗号技術・認証・認可の特集をピックアップしたものが本書になります。以前読んだことがある記事もあるかもしれませんが、記憶力はそんなに良くない（笑）実際時が経てば忘れてしまうものなので、定期的に再学習することは必要と思います。
 
-そもそも暗号技術は現代において必須の技術、そして知れば知るほど[暗号の歴史](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7%E5%8F%B2)は奥が深く、近年多用されている公開鍵暗号とそれを利用したディジタル署名を考えた人は天才だと思いますね。暗号技術がなければ、インターネットを安全に利用することは不可能です。
+暗号技術は現代において必須の技術、そして知れば知るほど[暗号の歴史](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7%E5%8F%B2)は奥が深く、近年多用されている公開鍵暗号とそれを利用したディジタル署名を考えた人は天才だと思いますね。暗号技術がなければ、インターネットを安全に利用することは不可能です。
 
 # 1.今更聞けない暗号技術
 暗号技術における基本、さすがにここが分からないCISSPではないです。
