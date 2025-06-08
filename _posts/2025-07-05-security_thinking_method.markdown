@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "セキュリティ担当者のためのセキュリティエンジニアとして活躍するために身につけておきたいSC思考"
-date:   2025-06-22 10:20:27 +0900
+date:   2025-07-05 10:20:27 +0900
 categories: bookreview
 img: security_thinking_method.jpg # Add image post (optional)
 tags: [security] # add tag

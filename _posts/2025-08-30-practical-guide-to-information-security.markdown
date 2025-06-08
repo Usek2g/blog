@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "セキュリティ担当者のための情報セキュリティ対策　実践ガイド"
-date:   2025-08-09 10:20:27 +0900
+date:   2025-08-30 10:20:27 +0900
 categories: bookreview
 img: practical-guide-to-information-security.jpg # Add image post (optional)
 tags: [security] # add tag
@@ -25,6 +25,3 @@ description: 技術を語るな、ビジネスを語れ
 
 伊藤和也さんの他の書籍と内容が重複する部分もありますが、最後の「セキュリティエンジニアのキャリア戦略」はこれまでの書籍では書かれていなかった内容です。スペシャリストになるか、ジェネラリストになるか。自分の強み・モチベーションを踏まえてキャリアを積むことを意識しました。
 このブログ記述によるアウトプット（とそれに必要なインプット）もキャリア蓄積の役に立つかもです。
-今回サイバーセキュリティに特化したトピックを扱うSlack“Cyber-sec+ Slack”に入ってみました。
-
-[サイバーセキュリティに特化したオンラインコミュニケーションスペース “Cyber-sec+ Slack”（通称：Security Slack）をローンチ](https://www.cscloud.co.jp/dx-security/dx_news/20230608-1/)
