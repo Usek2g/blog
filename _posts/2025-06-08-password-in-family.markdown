@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "実家の両親が利用するアプリに多要素認証を設定してきました"
+title:  "実家の両親が利用するスマフォアプリに多要素認証を設定してきました"
 date:   2025-06-08 21:15:27 +0900
 categories: diary
 img: onetimepassword-on-smartphone.jpeg
