@@ -3,7 +3,7 @@ layout: post
 title:  "「令和6年度セキュリティ人材活用促進実証に係る業務」報告書を読む"
 date:   2025-06-22 10:15:27 +0900
 categories: diary
-img: fakebasestation.jpg # Add image post (optional)
+img: security-specialist-consulting.jpg # Add image post (optional)
 tags: [article] # add tag
 description: アクティブリスト・講習の費用免除と、今年の報告書には期待させる文言が多かった
 ---
