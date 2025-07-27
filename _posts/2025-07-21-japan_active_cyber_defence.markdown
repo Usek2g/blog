@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "【ブックレビュー】能動的サイバー防御"
-date:   2025-06-29 10:20:27 +0900
+date:   2025-07-21 10:20:27 +0900
 categories: bookreview
 img: japan_active_cyber_defense.jpg # Add image post (optional)
 tags: [security] # add tag
 description: 現在ニュースにもなっている日本のサイバー政策の変遷について
 ---
 
-2023年ごろからにわかにニュースで聴くようになった「能動的サイバー防御」。今年の春に衆議院・参議院ともに可決されました。
+2023年頃からにわかにニュースで聴くようになった「能動的サイバー防御」。今年の春に衆議院・参議院ともに可決されました。2027年の施行を予定しています。
 
 参議院：[能動的サイバー防御法案等を議決](https://www.sangiin.go.jp/japanese/ugoki/r7/250516.html)
 内閣官房：[サイバー安全保障に関する取組（能動的サイバー防御の実現に向けた検討など）](https://www.cas.go.jp/jp/seisaku/cyber_anzen_hosyo_torikumi/index.html)
