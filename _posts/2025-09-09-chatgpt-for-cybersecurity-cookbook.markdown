@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "生成AIによるサイバーセキュリティ実践ガイド"
-date:   2025-08-09 10:20:27 +0900
+date:   2025-09-09 10:20:27 +0900
 categories: bookreview
 img: chatgpt-for-cybersecurity-cookbook.jpg # Add image post (optional)
 tags: [security,ai] # add tag

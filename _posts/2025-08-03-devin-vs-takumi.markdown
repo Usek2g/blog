@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AIエージェント対決！Devinの堅牢開発 vs Takumiの脆弱性診断"
-date:   2025-08-03 21:15:27 +0900
+date:   2025-08-03 17:15:27 +0900
 categories: diary
 img: devin-vs-takumi.png # Add image post (optional)
 tags: [seminar] # add tag

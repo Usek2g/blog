@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "2025年5,6月の気になるインターネット記事をピックアップ"
-date:   2025-07-27 19:15:27 +0900
+title:  "2025年7月の気になるインターネット記事をピックアップ"
+date:   2025-08-10 19:15:27 +0900
 categories: diary
 img: active-cyber-defense-in-japan.jpeg # Add image post (optional)
 tags: [article] # add tag
-description: 2025年5,6月の気になった記事を読んでみる
+description: 2025年7月の気になった記事を読んでみる
 ---
 
 [セキュリティ運用「自動化やAI活用が不可欠」言うは易し――現状プロセスを分析する4つの方法、AIも働きやすくする3つの環境整備ポイント](https://atmarkit.itmedia.co.jp/ait/articles/2507/08/news023.html)
