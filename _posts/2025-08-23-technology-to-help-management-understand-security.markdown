@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "経営層にセキュリティを理解させる技術"
-date:   2025-08-23 10:20:27 +0900
+date:   2025-08-26 8:20:27 +0900
 categories: bookreview
 img: technology-to-help-management-understand-security.jpg # Add image post (optional)
 tags: [security] # add tag
