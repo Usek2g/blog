@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "セキュリティ担当者のための情報セキュリティ対策　実践ガイド"
-date:   2025-08-30 10:20:27 +0900
+date:   2025-08-31 10:20:27 +0900
 categories: bookreview
 img: practical-guide-to-information-security.jpg # Add image post (optional)
 tags: [security] # add tag
