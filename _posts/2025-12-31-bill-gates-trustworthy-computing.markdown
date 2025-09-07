@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ビル・ゲイツのメモ「信頼できるコンピューティング」の原文を見つけました"
-date:   2025-11-03 17:15:27 +0900
+date:   2025-12-31 17:15:27 +0900
 categories: diary
 img: bill-gates-2002.jpg # Add image post (optional)
 tags: [artile] # add tag

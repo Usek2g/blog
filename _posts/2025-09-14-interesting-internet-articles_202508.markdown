@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2025年8月の気になるインターネット記事をピックアップ"
-date:   2025-09-07 19:15:27 +0900
+date:   2025-09-14 19:15:27 +0900
 categories: diary
 img: bill-gates-2002.jpg # Add image post (optional)
 tags: [article] # add tag
