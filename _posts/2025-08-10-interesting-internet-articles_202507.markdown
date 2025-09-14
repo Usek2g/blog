@@ -3,7 +3,7 @@ layout: post
 title:  "2025年7月の気になるインターネット記事をピックアップ"
 date:   2025-08-10 13:15:27 +0900
 categories: diary
-img: active-cyber-defense-in-japan.jpeg # Add image post (optional)
+img: security-checklist.jpeg # Add image post (optional)
 tags: [article] # add tag
 description: 2025年7月の気になった記事を読んでみる
 ---
