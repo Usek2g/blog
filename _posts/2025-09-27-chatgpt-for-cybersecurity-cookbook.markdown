@@ -12,9 +12,13 @@ description: LLMをブラウザから利用してサイバーセキュリティ�
 
 このブログで幾度も書いていますが、LLM（大規模言語モデル）の進化はすごいものがあります。業務に利用し始めたのは2年前くらいかな、最初は「まだまだだな」「こいつ平然とウソをつきやがって」と思っていたのですが、最近はハルシネーションも減っており（LLMに「その情報のソースも提供してください」と念押しする必要がありますが）、Google検索が汚染されていることもあってもはや検索よりまずAIに聞く、という時代になっています。なにより検索の王者であるGoogleがGeminiという高性能なLLMを無料で提供しています。まさにNo AI,No LIFEの時代になったと言えるでしょう。
 
-<blockquote class=”twitter-tweet” data-conversation=”none”><a href=”https://x.com/kubotamas/status/1970860987365650765”></a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">
+<a href="https://x.com/kubotamas/status/1970860987365650765">https://x.com/kubotamas/status/1970860987365650765</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 この方のコメントにある **「デジタル・ゴッド」** という表現は象徴的ですよね。まさにLLMは神のような存在です。
+実際上記のtwitterの投稿埋め込みは、自分がGoogle検索で調べた記事の通りに記載しても正常に表示されなかったため、Geminiに質問したら、正しい回答を返してくれました。
 
 この本はLLMの中でも代表的な存在であるChatGPTを用いて、サイバーセキュリティ活動を行う人がどのような助けを得られるかを紹介しています。最初はブラウザでのChatGPTの利用や、OpenAIのAPIを利用したプログラムやソフトウェアからLLMを利用する方法が紹介されています。自分の場合は既に業務でLLMを利用している（頼っている）こともあり目新しい内容ではなかったですが、今まさにLLMを仕事の中で使いたい、という人にとっては分かりやすい説明となっています。
 
