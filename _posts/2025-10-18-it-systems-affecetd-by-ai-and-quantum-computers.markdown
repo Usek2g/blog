@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI・量子コンピュータにかかわるリスク管理"
-date:   2025-09-14 10:20:27 +0900
+date:   2025-10-18 10:20:27 +0900
 categories: bookreview
 img: it-systems-affecetd-by-ai-and-quantum-computers.jpg # Add image post (optional)
 tags: [security] # add tag

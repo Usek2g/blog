@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "サイバーセキュリティの教科書"
-date:   2025-10-28 10:20:27 +0900
+date:   2025-11-15 10:20:27 +0900
 categories: bookreview
 img: making-sence-of-cybersecurity.jpg # Add image post (optional)
 tags: [security] # add tag
@@ -10,9 +10,9 @@ description:
 
 原著のタイトルは「Making sens of Cybersecurity」つまり「サイバーセキュリティのセンスを作る」でしょうか。筆者の言うセンスとは以下の3つ
 
-「適切さ」
-「バランス」
-「持続可能性」
+- 「適切さ」
+- 「バランス」
+- 「持続可能性」
 
 です。
 セキュリティはとことんやろうとしたら際限がなく、お金も青天井。また大企業と中小企業では従業員や保有する情報資産、そして取引先の数、何よりかけられる予算が違います。適切な規模の対策をバランスよく行わなければ、持続することができません。
