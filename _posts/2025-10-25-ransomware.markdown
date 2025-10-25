@@ -45,8 +45,7 @@ Web注文システムが停止し、無印良品など取引先にも影響。�
 
 正規サイトでも偽セキュリティ警告など不正広告が表示されることがあります。
 アクセスだけで感染する場合もあるため、不審な表示には注意してください。
-IPAによる不正広告サンプル集もご覧ください。
-https://www.ipa.go.jp/security/anshin/measures/fakealert.html
+[IPAによる不正広告サンプル集](https://www.ipa.go.jp/security/anshin/measures/fakealert.html)もご覧ください。
 
 **多要素認証（MFA）の活用**
 ID・パスワード漏洩時にも、不正ログインを防げます。パスワードがもはや認証の条件として信用できない時代。
