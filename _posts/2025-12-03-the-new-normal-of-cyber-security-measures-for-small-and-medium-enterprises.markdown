@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "中堅・中小企業のための サイバーセキュリティ対策の新常識"
-date:   2025-11-03 10:20:27 +0900
+date:   2025-12-03 10:20:27 +0900
 categories: bookreview
 img: the-new-normal-of-cyber-security-measures-for-small-and-medium-enterprises.jpg # Add image post (optional)
 tags: [security] # add tag
