@@ -4,7 +4,7 @@ title:  "2024年年末の気になるインターネット記事をピックア�
 date:   2025-01-12 10:15:27 +0900
 categories: diary
 img: whatissecurity.jpeg # Add image post (optional)
-tags: [article] # add tag
+tags: [news] # add tag
 description: 2024年12月の気になった記事を読んでみる
 ---
 

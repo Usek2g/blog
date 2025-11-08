@@ -4,7 +4,7 @@ title:  "2025年3月の気になるインターネット記事をピックアッ
 date:   2025-04-08 10:15:27 +0900
 categories: diary
 img: interesting-internet-articles_202502.jpeg # Add image post (optional)
-tags: [article] # add tag
+tags: [news] # add tag
 description: 2025年3月の気になった記事を読んでみる
 ---
 

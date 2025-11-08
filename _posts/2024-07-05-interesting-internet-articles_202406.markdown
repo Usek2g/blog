@@ -5,7 +5,7 @@ date:   2024-07-05 13:15:27 +0900
 categories: diary
 img: ransomware.jpeg
  # Add image post (optional)
-tags: [article] # add tag
+tags: [news] # add tag
 description: 2024年6月の気になった記事を読んでみる
 ---
 

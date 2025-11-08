@@ -4,7 +4,7 @@ title:  "「私はロボットではありません」詐欺に注意してく�
 date:   2025-11-03 10:15:27 +0900
 categories: diary
 img: i-am-not-a-robot.jpg # Add image post (optional)
-tags: [article] # add tag
+tags: [news] # add tag
 description: 警視庁も警戒をアナウンスしている「私はロボットではありません」詐欺について解説します
 ---
 

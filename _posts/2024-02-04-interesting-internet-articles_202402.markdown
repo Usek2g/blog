@@ -5,7 +5,7 @@ date:   2024-02-04 21:55:27 +0900
 categories: diary
 img: psychological-safety_msdegisner.jpeg
  # Add image post (optional)
-tags: [article] # add tag
+tags: [news] # add tag
 description: 2024年1月の気になった記事を読んでみる
 ---
 

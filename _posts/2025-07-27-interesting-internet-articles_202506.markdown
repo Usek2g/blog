@@ -4,7 +4,7 @@ title:  "2025年5,6月の気になるインターネット記事をピックア�
 date:   2025-07-27 12:15:27 +0900
 categories: diary
 img: active-cyber-defense-in-japan.jpeg # Add image post (optional)
-tags: [article] # add tag
+tags: [news] # add tag
 description: 2025年5,6月の気になった記事を読んでみる
 ---
 

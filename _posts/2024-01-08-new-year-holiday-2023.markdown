@@ -5,7 +5,7 @@ date:   2024-01-08 21:55:27 +0900
 categories: diary
 img: passkey_msdesigner.jpg
  # Add image post (optional)
-tags: [article] # add tag
+tags: [news] # add tag
 description: 2023年末から2024年始にかけて気になった記事を読んでみる
 ---
 

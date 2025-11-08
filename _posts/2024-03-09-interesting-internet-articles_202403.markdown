@@ -5,7 +5,7 @@ date:   2024-03-09 22:55:27 +0900
 categories: diary
 img: security-strategy_msdegisner.jpeg
  # Add image post (optional)
-tags: [article] # add tag
+tags: [news] # add tag
 description: 2024年2月の気になった記事を読んでみる
 ---
 

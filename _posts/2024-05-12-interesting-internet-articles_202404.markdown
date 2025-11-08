@@ -5,7 +5,7 @@ date:   2024-05-12 23:15:27 +0900
 categories: diary
 img: stockprice.png
  # Add image post (optional)
-tags: [article] # add tag
+tags: [news] # add tag
 description: 2024年4月の気になった記事を読んでみる
 ---
 ゴールデンウィークも終わり、また厳しい戦いの日々が始まります。3,4月に気になった記事をストックしていたので紹介します。
