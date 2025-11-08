@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2025年10月の気になるインターネット記事をピックアップ"
-date:   2025-11-18 14:15:27 +0900
+date:   2025-11-08 14:15:27 +0900
 categories: diary
 img: how-to-clickfix.png # Add image post (optional)
 tags: [news] # add tag
