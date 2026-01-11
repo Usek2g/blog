@@ -3,7 +3,7 @@ layout: post
 title:  "セキュリティエンジニアの知識地図"
 date:   2026-01-11 10:20:27 +0900
 categories: bookreview
-img: textbook-of-mail-technology.png # Add image post (optional)
+img: secuity-engineer-knowledge-map.jpg # Add image post (optional)
 tags: [security] # add tag
 description: セキュリティエンジニアとは
 ---
