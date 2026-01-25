@@ -4,7 +4,7 @@ title:  "サイバー攻撃その瞬間　社長の決定"
 date:   2026-02-14 10:20:27 +0900
 categories: bookreview
 img: textbook-of-mail-technology.png # Add image post (optional)
-tags: [email] # add tag
+tags: [security] # add tag
 description: サイバー攻撃を実際に受けた会社の社長が、現場で何が起こっていたのか、その教訓は何かを記した本
 ---
 

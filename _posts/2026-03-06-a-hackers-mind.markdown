@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ハッキング思考"
-date:   2026-01-23 10:20:27 +0900
+date:   2026-03-06 10:20:27 +0900
 categories: bookreview
 img: a-hackers-mind.jpg # Add image post (optional)
 tags: [hacking] # add tag
