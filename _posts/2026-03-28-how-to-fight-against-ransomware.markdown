@@ -3,7 +3,7 @@ layout: post
 title:  "ランサムウェア攻撃との戦い方"
 date:   2026-03-28 10:20:27 +0900
 categories: bookreview
-img: how-to-fight-against-ransomware # Add image post (optional)
+img: how-to-fight-against-ransomware.jpg # Add image post (optional)
 tags: [security,ransomware] # add tag
 description: サイバー攻撃を実際に受けた会社の社長が、現場で何が起こっていたのか、その教訓は何かを記した本
 ---
