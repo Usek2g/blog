@@ -5,7 +5,7 @@ date:   2026-06-07 10:20:27 +0900
 categories: bookreview
 image:
   path: assets/img/websecuritycompactguide.jpg # Add image post (optional)
-tags: [security,ai] # add tag
+tags: [security] # add tag
 description: 攻撃の種類から具体的な対策アプローチまで
 ---
 

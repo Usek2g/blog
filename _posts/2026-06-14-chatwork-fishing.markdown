@@ -5,7 +5,7 @@ date:   2026-06-07 10:20:27 +0900
 categories: bookreview
 image:
   path: assets/img/chattool-fishing.png # Add image post (optional)
-tags: [security,ai] # add tag
+tags: [security] # add tag
 description: リアルタイムでどんどん進化する攻撃手法に驚愕
 ---
 
