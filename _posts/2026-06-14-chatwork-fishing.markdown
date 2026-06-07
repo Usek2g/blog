@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ChatWorkのフィッシング詐欺が流行っています"
-date:   2026-06-07 10:20:27 +0900
+date:   2026-06-14 10:20:27 +0900
 categories: bookreview
 image:
   path: assets/img/chattool-fishing.png # Add image post (optional)
