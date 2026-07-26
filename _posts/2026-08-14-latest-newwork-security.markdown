@@ -6,7 +6,7 @@ categories: bookreview
 image:
   path: assets/img/latest-network-security.jpg # Add image post (optional)
 tags: [security,network] # add tag
-description: 
+description: 最新のセキュリティ事情について豊富な図と質の高い取材からひも解く
 ---
 
 雑誌『日経ネットワーク』のセキュリティに関連した記事をまとめた本です。そもそも、フロッピーディスク💾（今やこれを使ったことがない人も多いのではないでしょうか）で直接コンピュータウイルスを感染させるような時代ではなく、ネットワークを介さないセキュリティなど、今や皆無と言っても過言ではありません。
