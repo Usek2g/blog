@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Webセキュリティコンパクトガイド"
+title:  "【ブックレビュー】Webセキュリティコンパクトガイド"
 date:   2026-07-14 10:20:27 +0900
 categories: bookreview
 image:

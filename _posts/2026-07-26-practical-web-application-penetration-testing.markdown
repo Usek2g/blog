@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "実践Webペネトレーションテスト"
+title:  "【ブックレビュー】実践Webペネトレーションテスト"
 date:   2026-07-26 15:00:27 +0900
 categories: bookreview
 image:

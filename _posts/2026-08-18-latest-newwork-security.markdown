@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【ブックレビュー】最新ネットワークセキュリティ"
-date:   2026-08-14 10:20:27 +0900
+date:   2026-08-18 10:20:27 +0900
 categories: bookreview
 image:
   path: assets/img/latest-network-security.jpg # Add image post (optional)
