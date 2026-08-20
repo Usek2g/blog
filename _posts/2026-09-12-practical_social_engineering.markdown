@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【ブックレビュー】人を動かすハッカーの技術"
-date:   2026-08-28 10:20:27 +0900
+date:   2026-09-12 10:20:27 +0900
 categories: bookreview
 image:
   path: assets/img/practical_social_engineering # Add image post (optional)

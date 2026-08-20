@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI利用のガイドラインを作ることになった"
-date:   2026-09-07 10:20:27 +0900
+date:   2026-09-26 10:20:27 +0900
 categories: diary
 image:
   path: assets/img/managing-ai-risks-in-business.png # Add image post (optional)
