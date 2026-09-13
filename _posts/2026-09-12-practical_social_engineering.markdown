@@ -4,7 +4,7 @@ title:  "【ブックレビュー】人を動かすハッカーの技術"
 date:   2026-09-13 13:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/practical_social_engineering # Add image post (optional)
+  path: assets/img/practical_social_engineering.jpg # Add image post (optional)
 tags: [security] # add tag
 description: 最大の脆弱性は「人間」
 ---
