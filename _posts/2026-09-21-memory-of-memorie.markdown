@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "異世界作業用アドベンチャー『Memory of Memorie : A Chill Story』使ってます"
-date:   2026-09-01 22:20:27 +0900
+date:   2026-09-21 12:00:27 +0900
 categories: diary
 image:
   path: assets/img/memory-of-memorie.jpg # Add image post (optional)
