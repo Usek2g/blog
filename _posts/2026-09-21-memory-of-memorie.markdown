@@ -44,3 +44,7 @@ description: ポモドーロタイマーシステムでしっかり集中して�
 BGMも作業を邪魔しないファンタジー調のケルト風音楽が流れます。PCローカルにある自分の好きなBGMを流すこともできます。
 
 繰り返しになりますが、この記事を公開する本日9/21まで、期間限定で20%引きです。900円ですよ。1日集中して勉強できれば元は取れると言っていいでしょう。実際このシルバーウィークは、ずっと天気が悪いということもありひたすら室内で勉強していますが、このゲームが非常に役立っています。
+
+＜追記＞
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">シルバーウィークは勉強ウィークでしたが、Memory of Memorie のおかげで家でも図書館以上に集中することができた。この調子で年末の試験に向けて追い込んでいかないと<a href="https://t.co/Ki8Y6EELwS">https://t.co/Ki8Y6EELwS</a> <a href="https://t.co/ij5tvBVFhQ">pic.twitter.com/ij5tvBVFhQ</a></p>&mdash; Usek (@Usek2g) <a href="https://x.com/Usek2g/status/2102638818394558836?ref_src=twsrc%5Etfw">September 23, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
