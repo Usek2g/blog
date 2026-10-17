@@ -4,7 +4,7 @@ title:  "近年日本国内で発生しているサイバー攻撃について�
 date:   2026-10-17 19:20:27 +0900
 categories: diary
 image:
-  path: assets/img/cyber-attack-analytics.jpg # Add image post (optional)
+  path: /assets/img/cyber-attack-analytics.jpg # Add image post (optional)
 tags: [ransomware,security] # add tag
 description: 攻撃の手口と被害の原因を調べて対策を考える
 ---
