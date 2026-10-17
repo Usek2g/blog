@@ -4,7 +4,7 @@ title:  "【ブックレビュー】はじめて学ぶ最新サイバーセキ�
 date:   2025-02-24 10:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/cybersecurity-myths-misconceptions.jpg # Add image post (optional)
+  path: /assets/img/cybersecurity-myths-misconceptions.jpg # Add image post (optional)
 tags: [security] # add tag
 description: サイバーセキュリティにおける「都市伝説」と「誤解」について
 ---

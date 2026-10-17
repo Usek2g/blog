@@ -4,7 +4,7 @@ title:  "NotebookLMを使った試験学習"
 date:   2026-05-24 12:15:27 +0900
 categories: diary
 image:
-  path: assets/img/mynotebook.jpg
+  path: /assets/img/mynotebook.jpg
  # Add image post (optional)
 tags: [aws,ai] # add tag
 description: 手作りノート（アナログ）とNotebookLM（デジタル）の融合

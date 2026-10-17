@@ -4,7 +4,7 @@ title:  "新しいパソコンを買ったのでローカルLLMを試してみ�
 date:   2026-06-14 21:20:27 +0900
 categories: diary
 image:
-  path: assets/img/use-locallLLM.png # Add image post (optional)
+  path: /assets/img/use-locallLLM.png # Add image post (optional)
 tags: [ai] # add tag
 description: 将来を見据えて、ローカルLLMを触っておこう
 ---

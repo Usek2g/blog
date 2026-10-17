@@ -4,7 +4,7 @@ title:  "【ブックレビュー】ポストモーテム　みずほ銀行シ�
 date:   2023-07-23 22:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/postmortem-of-mizuho-bank.jpg
+  path: /assets/img/postmortem-of-mizuho-bank.jpg
  # Add image post (optional)
 tags: [incident] # add tag
 description: みずほ銀行のシステム障害のポストモーテム、と銘打った実際には読みもの

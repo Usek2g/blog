@@ -4,7 +4,7 @@ title:  "【ブックレビュー】先読み！サイバーセキュリティ �
 date:   2024-11-10 12:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/look-ahead-cybersecurity.jpg
+  path: /assets/img/look-ahead-cybersecurity.jpg
  # Add image post (optional)
 tags: [security] # add tag
 description: 会話形式とイラストで分かりやすくサイバーセキュリティを学ぼう

@@ -4,7 +4,7 @@ title:  "【ブックレビュー】AWSの基本・仕組み・重要用語が�
 date:   2023-05-21 22:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/aws-basics-mechanisms-important_terms.jpg
+  path: /assets/img/aws-basics-mechanisms-important_terms.jpg
  # Add image post (optional)
 tags: [aws] # add tag
 description: 2023年に出版されそのボリュームから話題となったAWS解説本です

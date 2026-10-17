@@ -4,7 +4,7 @@ title:  "【ブックレビュー】どうしてこうなった？ セキュリ�
 date:   2024-04-17 22:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/51rediculous.png
+  path: /assets/img/51rediculous.png
  # Add image post (optional)
 tags: [security,ransomware] # add tag
 description: セキュリティ脆弱性とそれに対する攻撃は高度な技術が必要とは限りません。あまりにも初歩的なケアレスミスが原因になることもあるのです

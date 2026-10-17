@@ -4,7 +4,7 @@ title:  "【ブックレビュー】ランサムウェア攻撃との戦い方"
 date:   2026-05-10 10:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/how-to-fight-against-ransomware.jpg # Add image post (optional)
+  path: /assets/img/how-to-fight-against-ransomware.jpg # Add image post (optional)
 tags: [security,ransomware] # add tag
 description: ランサムウェア専門家が語る、ランサムウェアの過去と現在、そして未来
 ---

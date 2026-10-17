@@ -4,7 +4,7 @@ title:  "Amazonセールでソースネクストの「1password family(3年分)�
 date:   2026-03-03 09:15:27 +0900
 categories: diary
 image:
-  path: assets/img/sourcenext-1password-family.png # Add image post (optional)
+  path: /assets/img/sourcenext-1password-family.png # Add image post (optional)
 tags: [software,security] # add tag
 description: 非エンジニアにこそ使用してほしいパスワード管理ツール1passwordがお得に購入できます
 ---

@@ -4,7 +4,7 @@ title:  "実務経験者に対する講習制度について"
 date:   2026-10-21 10:50:27 +0900
 categories: diary
 image:
-  path: assets/img/riss-experience-exemption.jpg # Add image post (optional)
+  path: /assets/img/riss-experience-exemption.jpg # Add image post (optional)
 tags: [riss] # add tag
 description: 日々の業務で十分な実務経験を積んでいると認められた場合、3年に1度の「実践講習」が免除されます
 ---

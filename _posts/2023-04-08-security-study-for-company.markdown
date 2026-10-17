@@ -4,7 +4,7 @@ title:  "会社内でのセキュリティ教育ー見えないが見えてし�
 date:   2023-04-08 22:50:27 +0900
 categories: activity
 image:
-  path: assets/img/syuraba.jpg
+  path: /assets/img/syuraba.jpg
  # Add image post (optional)
 tags: [security] # add tag
 description: 社内のセキュリティ教育でバズった記事を紹介したくなりました

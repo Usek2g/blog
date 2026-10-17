@@ -4,7 +4,7 @@ title:  "【ブックレビュー】経営層のためのサイバーセキュ�
 date:   2024-11-01 12:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/introduction-for-cybersecurity.jpg
+  path: /assets/img/introduction-for-cybersecurity.jpg
  # Add image post (optional)
 tags: [security] # add tag
 description: 経営層が考えなければならないサイバーセキュリティについて

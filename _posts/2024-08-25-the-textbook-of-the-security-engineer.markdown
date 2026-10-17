@@ -4,7 +4,7 @@ title:  "【ブックレビュー】セキュリティエンジニアの教科�
 date:   2024-08-25 12:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/textbook-of-the-security-engineer.jpg
+  path: /assets/img/textbook-of-the-security-engineer.jpg
  # Add image post (optional)
 tags: [security] # add tag
 description: 特にインシデント周りの記述が充実している本です

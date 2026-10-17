@@ -4,7 +4,7 @@ title:  "真夏の怪談ーclaude codeの善意による悪夢"
 date:   2026-09-01 22:20:27 +0900
 categories: diary
 image:
-  path: assets/img/summer-horror.jpg # Add image post (optional)
+  path: /assets/img/summer-horror.jpg # Add image post (optional)
 tags: [ai,claude] # add tag
 description: 本当にあった怖い話（ヒヤリハット）
 ---

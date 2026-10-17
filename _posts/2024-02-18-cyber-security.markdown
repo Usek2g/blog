@@ -4,7 +4,7 @@ title:  "【ブックレビュー】サイバーセキュリティ対応の企�
 date:   2024-02-18 22:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/cyber-security.jpg
+  path: /assets/img/cyber-security.jpg
  # Add image post (optional)
 tags: [security] # add tag
 description: 企業で実務に使えるサイバーセキュリティのノウハウ満載

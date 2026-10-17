@@ -4,7 +4,7 @@ title:  "【ブックレビュー】今知りたいサイバー犯罪事件簿-�
 date:   2023-07-09 22:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/cyber-crime-case-files-you-want-to-know-now.jpg
+  path: /assets/img/cyber-crime-case-files-you-want-to-know-now.jpg
  # Add image post (optional)
 tags: [security] # add tag
 description: 2023年現在ホットなサイバー犯罪を取りあげた書籍。日本語で読みやすい。

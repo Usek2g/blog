@@ -4,7 +4,7 @@ title:  "【ブックレビュー】中堅・中小企業のための サイバ�
 date:   2026-01-25 09:00:27 +0900
 categories: bookreview
 image:
-  path: assets/img/the-new-normal-of-cyber-security-measures-for-small-and-medium-enterprises.jpg # Add image post (optional)
+  path: /assets/img/the-new-normal-of-cyber-security-measures-for-small-and-medium-enterprises.jpg # Add image post (optional)
 tags: [security] # add tag
 description: 
 ---

@@ -4,7 +4,7 @@ title:  "【ブックレビュー】フロントエンド開発のためのセ�
 date:   2025-02-08 10:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/frontend-development-security.png # Add image post (optional)
+  path: /assets/img/frontend-development-security.png # Add image post (optional)
 tags: [programming,security] # add tag
 description: フロントエンドのお約束の脆弱性とその対策について手を動かしながら真似べる本
 ---

@@ -4,7 +4,7 @@ title:  "異世界作業用アドベンチャー『Memory of Memorie : A Chill S
 date:   2026-09-21 12:00:27 +0900
 categories: diary
 image:
-  path: assets/img/memory-of-memorie.jpg # Add image post (optional)
+  path: /assets/img/memory-of-memorie.jpg # Add image post (optional)
 tags: [game,pomodorotimer] # add tag
 description: ポモドーロタイマーシステムでしっかり集中して勉強しましょう
 ---

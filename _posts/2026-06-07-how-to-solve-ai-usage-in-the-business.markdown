@@ -4,7 +4,7 @@ title:  "会社で「AIを使いたい！」と言われた場合何を考えれ
 date:   2026-06-07 10:20:27 +0900
 categories: diary
 image:
-  path: assets/img/managing-ai-risks-in-business.png # Add image post (optional)
+  path: /assets/img/managing-ai-risks-in-business.png # Add image post (optional)
 tags: [security,ai] # add tag
 description: もはや止まることのないAIの普及に対して情シスはどう構えればよいのか
 ---

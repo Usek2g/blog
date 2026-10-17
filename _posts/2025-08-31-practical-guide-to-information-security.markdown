@@ -4,7 +4,7 @@ title:  "【ブックレビュー】セキュリティ担当者のための情�
 date:   2025-08-31 10:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/practical-guide-to-information-security.jpg # Add image post (optional)
+  path: /assets/img/practical-guide-to-information-security.jpg # Add image post (optional)
 tags: [security] # add tag
 description: 技術を語るな、ビジネスを語れ
 ---

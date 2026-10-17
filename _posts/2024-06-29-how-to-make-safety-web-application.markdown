@@ -4,7 +4,7 @@ title:  "【ブックレビュー】安全なWebアプリケーションの作�
 date:   2024-06-29 12:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/how-to-make-safety-web-application.jpg
+  path: /assets/img/how-to-make-safety-web-application.jpg
  # Add image post (optional)
 tags: [security,programming] # add tag
 description: 信頼と実績の徳丸本、数年ぶりに読んでみました

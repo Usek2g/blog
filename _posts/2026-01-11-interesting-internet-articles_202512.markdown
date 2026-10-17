@@ -4,7 +4,7 @@ title:  "2025年12月の気になるインターネット記事をピックア�
 date:   2026-01-12 14:15:27 +0900
 categories: diary
 image:
-  path: assets/img/fake-president-sends-email.png # Add image post (optional)
+  path: /assets/img/fake-president-sends-email.png # Add image post (optional)
 tags: [news] # add tag
 description: 2025年12月の気になった記事を読んでみる
 ---

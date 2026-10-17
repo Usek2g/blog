@@ -4,7 +4,7 @@ title:  "Jykellの小技(RSSフィードを作成する・サイトマップを�
 date:   2022-12-28 10:00:27 +0900
 categories: tech-artile
 image:
-  path: assets/img/rssfeed.jpg # Add image post (optional)
+  path: /assets/img/rssfeed.jpg # Add image post (optional)
 tags: [github pages, jekyll] # add tag
 description: Github Pagesのアクセス数やユーザビリティを向上させる小技を紹介
 ---

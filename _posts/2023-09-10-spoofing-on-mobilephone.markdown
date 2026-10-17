@@ -4,7 +4,7 @@ title:  "電話番号が偽装表示されるスプーフィング攻撃によ�
 date:   2023-09-10 08:50:27 +0900
 categories: activity
 image:
-  path: assets/img/fushin_kanyuu_denwa_5348.png
+  path: /assets/img/fushin_kanyuu_denwa_5348.png
  # Add image post (optional)
 tags: [security] # add tag
 description: 世間を騒がせているスプーフィング攻撃によるオレオレ詐欺について調べてみました

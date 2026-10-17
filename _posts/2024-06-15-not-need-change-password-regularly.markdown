@@ -4,7 +4,7 @@ title:  "「パスワードの定期的な変更は不要」という総務省�
 date:   2024-06-15 13:15:27 +0900
 categories: news
 image:
-  path: assets/img/computer_password.png
+  path: /assets/img/computer_password.png
  # Add image post (optional)
 tags: [security] # add tag
 description: かつてお約束とされていた定期的なパスワード変更も、今では不要というのが正しい考え方

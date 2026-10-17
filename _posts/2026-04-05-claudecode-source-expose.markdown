@@ -4,7 +4,7 @@ title:  "ClaudeCodeのソースコード漏洩とaxiosの改ざんについて"
 date:   2026-04-05 11:15:27 +0900
 categories: diary
 image:
-  path: assets/img/claudecode-source-code-leak.png
+  path: /assets/img/claudecode-source-code-leak.png
  # Add image post (optional)
 tags: [aws] # add tag
 description: 新年度初日からあれやこれやと大忙し

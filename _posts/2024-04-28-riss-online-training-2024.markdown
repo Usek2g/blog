@@ -4,7 +4,7 @@ title:  "情報処理安全確保支援士のオンライン講習を受講し�
 date:   2024-04-29 10:50:27 +0900
 categories: diary
 image:
-  path: assets/img/riss.jpeg # Add image post (optional)
+  path: /assets/img/riss.jpeg # Add image post (optional)
 tags: [riss] # add tag
 description: 情報処理安全確保支援士（通称登録セキスペ）の毎年受講が必要なオンライン講習について
 ---

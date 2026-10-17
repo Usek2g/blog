@@ -4,7 +4,7 @@ title:  "2025年10月の気になるインターネット記事をピックア�
 date:   2025-11-08 14:15:27 +0900
 categories: diary
 image:
-  path: assets/img/how-to-clickfix.png # Add image post (optional)
+  path: /assets/img/how-to-clickfix.png # Add image post (optional)
 tags: [news] # add tag
 description: 2025年10月の気になった記事を読んでみる
 ---

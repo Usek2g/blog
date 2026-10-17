@@ -4,7 +4,7 @@ title:  "【ブックレビュー】今更聞けない暗号技術＆認証・�
 date:   2025-05-31 9:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/cryptography-authentication-authorization.jpg # Add image post (optional)
+  path: /assets/img/cryptography-authentication-authorization.jpg # Add image post (optional)
 tags: [security,cryptography,authentication,authorization] # add tag
 description: Software Designの特集から暗号技術、認証、認可をピックアップ
 ---

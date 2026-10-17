@@ -4,7 +4,7 @@ title:  "2段階認証アプリ「Authy」デスクトップ版サポート終�
 date:   2024-03-18 22:30:27 +0900
 categories: news
 image:
-  path: assets/img/AuthyDesktop-Title.png
+  path: /assets/img/AuthyDesktop-Title.png
  # Add image post (optional)
 tags: [security] # add tag
 description: Authyのデスクトップ版がサポート終了します、モバイル版移行方法についてまとめました

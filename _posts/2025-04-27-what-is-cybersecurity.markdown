@@ -4,7 +4,7 @@ title:  "【ブックレビュー】「サイバーセキュリティ、マジ�
 date:   2025-04-27 10:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/what-is-cybersecurity.jpg # Add image post (optional)
+  path: /assets/img/what-is-cybersecurity.jpg # Add image post (optional)
 tags: [security] # add tag
 description: 一般の人に向けた平易な用語でサイバーセキュリティを説明
 ---

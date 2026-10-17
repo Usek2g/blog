@@ -4,7 +4,7 @@ title:  "【ブックレビュー】セキュリティ担当者のためのセ�
 date:   2025-07-12 16:00:27 +0900
 categories: bookreview
 image:
-  path: assets/img/security_thinking_method.jpg # Add image post (optional)
+  path: /assets/img/security_thinking_method.jpg # Add image post (optional)
 tags: [security] # add tag
 description: セキュリティエンジニアとして最上級の評価を得るためには、技術の枠を超える必要がある
 ---

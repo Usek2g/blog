@@ -4,7 +4,7 @@ title:  "AI利用のガイドラインを作ることになった"
 date:   2026-09-26 10:20:27 +0900
 categories: diary
 image:
-  path: assets/img/managing-ai-risks-in-business.png # Add image post (optional)
+  path: /assets/img/managing-ai-risks-in-business.png # Add image post (optional)
 tags: [security,ai] # add tag
 description: ビジネスにおいて必要不可欠なAIの利活用についてルールを定める
 ---

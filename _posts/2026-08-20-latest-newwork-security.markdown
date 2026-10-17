@@ -4,7 +4,7 @@ title:  "【ブックレビュー】最新ネットワークセキュリティ"
 date:   2026-08-20 10:20:27 +0900
 categories: bookreview
 image:
-  path: assets/img/latest-network-security.jpg # Add image post (optional)
+  path: /assets/img/latest-network-security.jpg # Add image post (optional)
 tags: [security,network] # add tag
 description: 最新のセキュリティ事情について豊富な図と質の高い取材からひも解く
 ---

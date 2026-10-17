@@ -4,7 +4,7 @@ title:  "【ブックレビュー】AWSで実現するモダンアプリケー�
 date:   2023-03-12 21:50:27 +0900
 categories: bookreview
 image:
-  path: assets/img/aws-modern-application.jpg # Add image post (optional)
+  path: /assets/img/aws-modern-application.jpg # Add image post (optional)
 tags: [aws] # add tag
 description: AWSを利用したモダンなアプリケーションを作成するための考え方、実例あれこれ
 ---

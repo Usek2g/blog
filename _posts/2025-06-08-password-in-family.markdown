@@ -4,7 +4,7 @@ title:  "実家の両親が利用するスマフォアプリに多要素認証�
 date:   2025-06-08 21:15:27 +0900
 categories: diary
 image:
-  path: assets/img/onetimepassword-on-smartphone.jpeg
+  path: /assets/img/onetimepassword-on-smartphone.jpeg
  # Add image post (optional)
 tags: [otp] # add tag
 description: 実家で感じた一般の人のセキュリティに対する煩わしさ
