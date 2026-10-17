@@ -4,7 +4,7 @@ title:  "ここ最近多発しているサイバー攻撃と情報漏洩につ�
 date:   2026-10-08 09:20:27 +0900
 categories: diary
 image:
-  path: assets/img/about-recent-frequent-cyberattacks-and-data-breaches.jpg # Add image post (optional)
+  path: /assets/img/about-recent-frequent-cyberattacks-and-data-breaches.jpg # Add image post (optional)
 tags: [ransomware,security] # add tag
 description: 明日は我が身、攻撃の手口と被害の原因を調べて対策を考えなくては
 ---
