@@ -66,9 +66,9 @@ Excelは2種類あります
 >情報処理推進機構(IPA) 実務経験者に対する講習制度　運営事務局です。
 >実務経験者に対する講習制度の申請について、認定しましたので通知します。
 
-認定通知書はログイン後以下のURLからダウンロードできます。
+認定通知書はログイン後以下のURLからダウンロードできます。かなり見つけるのに苦労しました。
 
-https://riss.ipa.go.jp/el/riss/courseResults/list
+[https://riss.ipa.go.jp/el/riss/courseResults/list](https://riss.ipa.go.jp/el/riss/courseResults/list)
 
 これにて３年に１度の講習が終わったということですので、いよいよ登録更新申請を行います。
 情報処理安全確保支援士の[マイページ](https://riss.ipa.go.jp/riss/myPage)より登録更新を選択し、手続きを進めます。
