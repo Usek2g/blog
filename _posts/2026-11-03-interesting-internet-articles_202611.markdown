@@ -76,7 +76,7 @@ SNSでは黙っていましたが、ここは僕の日記帳なので、自分�
 
 これまでセキュリティはかけたお金に見合った効果が見えにくいと軽視されがちでした。昔から海外の企業に比べて日本企業はセキュリティにお金をかけていないとされていました。
 
-- [セキュリティ予算を獲得する方法 | 経営層の納得を引き出す4つのポイント](https://www.nri-secure.co.jp/blog/getting-security-budget-approved)
+- [セキュリティ予算を獲得する方法 経営層の納得を引き出す4つのポイント](https://www.nri-secure.co.jp/blog/getting-security-budget-approved)
 - [【サイバーセキュリティ】「セキュリティ予算はいくらが正解？」がわかるようになる](https://listing-partners.com/gbiz/gbiz_column/sme-security-budget-calculation/)
 - [日本のセキュリティ投資、アメリカの「9分の1」だって知ってましたか？](https://note.com/_808/n/n540fcdc89b44)
 
