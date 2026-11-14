@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cloudflare Security Audit Skillを使ってアプリの脆弱性を診断"
-date:   2026-11-10 22:15:27 +0900
+date:   2026-12-10 22:15:27 +0900
 categories: diary
 image:
   path: /assets/img/security-audit-skill.jpg # Add image post (optional)
