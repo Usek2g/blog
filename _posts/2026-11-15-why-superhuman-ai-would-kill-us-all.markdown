@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【ブックレビュー】超知能ＡＩをつくれば人類は滅亡する"
-date:   2026-11-15 10:20:27 +0900
+date:   2026-11-15-20 22:20:27 +0900
 categories: bookreview
 image:
   path: /assets/img/why-superhuman-ai-would-kill-us-all.jpg # Add image post (optional)
